@@ -5,10 +5,7 @@ This repository contains an interactive Excel dashboard for sales analysis.
 - Monthly sales trends
 - Top-performing products
 - Regional breakdown
-- Interactive slicers
-
-## Preview
-![Dashboard Preview](dashboard_screenshot.png)
+- Interactive slicer
 
 ## How to Use
 1. Download `Sales_Dashboard.xlsx`.
